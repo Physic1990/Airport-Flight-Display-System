@@ -30,3 +30,7 @@ To run the frontend, use the following command:
 To run the backend, use the following command:
 
 **`npm run start:backend`**
+
+<ins>**Image of the Output**</ins> 
+![Screenshot from 2023-01-21 12-16-54](https://user-images.githubusercontent.com/93368036/213887826-7fd9f4fe-0c0b-4226-97cc-0c096f829d03.png)
+
